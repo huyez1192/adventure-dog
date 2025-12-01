@@ -28,4 +28,5 @@
   
   https://www.youtube.com/@tranthiminhchau9465
 
-
+# VI. Tài liệu đặc tả yêu cầu:
+  https://docs.google.com/document/d/1m8N0sHgli2nYHwsH8SqibCP2yIH1QnoOW58MXQF1a0Y/edit?hl=vi&tab=t.0
